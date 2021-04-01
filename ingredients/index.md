@@ -4,11 +4,11 @@ title: DS Cookbook - Ingredients
 permalink: /ingredients/
 ---
 ### Table of Contents
-[Human Capital](human-capital)<br>
-[Programming Language](programming-language)<br>
-[Development Environment](development-environment)<br>
-[Computing and Storage](computing-and-storage)
-[Deployment](deployment)
+[Human Capital](#human-capital)<br>
+[Programming Language](#programming-language)<br>
+[Development Environment](#development-environment)<br>
+[Computing and Storage](#computing-and-storage)
+[Deployment](#deployment)
 
 
 
