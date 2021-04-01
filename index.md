@@ -16,8 +16,8 @@ Problems, problem solving, and prototyping—are decentralized.
 **Purpose: merge top-down enablers with bottom-up problem solving**
 <br/><br/>
 ## How
-- "Ingredients" → What goes in to the recipes (human capital, development environment, compute, data)
-- "Recipes" → Process. (defining the problem, data management, exploring data, building models, etc)
+- _"Ingredients"_ → What goes in to the recipes (human capital, development environment, compute, data)
+- _"Recipes"_ → Process. (defining the problem, data management, exploring data, building models, etc)
 - Structure → bite-sized (<5 pg) articles
 <br/><br/>
 
@@ -27,5 +27,6 @@ Data scientists, designers, and product managers with experience in DoD (AI Task
 ## Audience
 Operations Research Analysts, junior data analysts, data sciewntists, recent graduates of universities and grad school programs, bootcamp grads, product managers.
 <br/><br/>
-##### Caveats
+<br/><br/>
+#### Caveats
 _These views and ideas are the authors' own and do not represent the views of the DoD, the Services, or any DoD organizations_
