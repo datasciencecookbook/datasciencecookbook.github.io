@@ -20,19 +20,27 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 4em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h2 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h3 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-h4 {
+h2 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size: 1.17em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h4 {
+    font-size: 1.12em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h5 {
+    font-size: .83em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h6 {
+    font-size: .75em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -55,12 +63,11 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
 }
-
