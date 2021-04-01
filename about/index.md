@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Page
+title: DS Cookbook - About
 ---
 # A Cookbook for Technologists, by Technologists
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Authors and Contributors
+title: DS Cookbook - Authors
 ---
 
 ## Authors

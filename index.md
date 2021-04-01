@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Science Cookbook Main Page
+title: Data Science Cookbook
 ---
 
 # Welcome to the Data Science Cookbook!
