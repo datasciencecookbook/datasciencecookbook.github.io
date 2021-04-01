@@ -3,6 +3,7 @@ layout: default
 title: DS Cookbook - Ingredients
 permalink: /ingredients/
 ---
+<br><br>
 ### Table of Contents
 [Human Capital](#human-capital)<br>
 [Programming Language](#programming-language)<br>
