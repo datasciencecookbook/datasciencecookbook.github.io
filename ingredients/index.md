@@ -1,8 +1,11 @@
 ---
 layout: default
 title: DS Cookbook - Ingredients
+permalink: /ingredients/
 ---
-## Human Capital
+<br><br>
+# Human Capital
+--------------------
 
 ### Subject Matter Expert / User
 If you’re using machine learning to solve a problem, you first need to understand the problem. Talking to an “end user” or subject matter expert is invaluable to gaining understanding of the problem / context. What’s more, even if you build a great machine learning model that makes accurate predictions, it’s useless if the model does not fit cleanly within a user’s existing workflow (who wants another box / computer at their workstation?). Building software that integrates within existing workflows and solves user pain points requires working closely with users.
@@ -30,10 +33,9 @@ There are actually many software developers, but for the scope of this cookbook,
 UX (User Experience) and UI (User Interface) Designers are typically focused on the design of the piece of software, with a large emphasis on usability, functionality, and user experience. UI/UX designers should be involved as early as possible in the design process of any application or project, as their input will shape the usability of the product. For software development, designers typically approach software-design problems with a User Centered Design (UCD) approach. This process involves the user’s feedback at every step and is an iterative process.
 
 
-<br><br><br><br>
-
-
-## Programming Language
+<br><br><br><br><br><br>
+# Programming Language
+------------------------
 
 A programming language is what the computer reads in order to do its tasks. Fortunately, in the 2020s, we have plenty of high-level programming languages to our disposal. We don’t need to deal with any 1s and 0s, and we can write code that is easy to read as a human, yet still fast for the computer to process.
 
@@ -48,7 +50,7 @@ Python is one of the most popular languages for data science and machine learnin
 - [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Xn_zAW37OWEle3RdoedlLA&utm_medium=udemyads&utm_source=aff-campaign) (Udemy) (350k reviews)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5736886#overview) (Udemy)  (100k reviews)
 
-<br><br>
+
 ### Python Libraries
 #### NumPy
 This is the standard numerical computing library for Python. Before starting any data science Python script, import [NumPy](https://numpy.org/) to get started.
@@ -76,8 +78,9 @@ A package manager keeps track of all the packages (like those Python libraries a
 `conda install numpy`
 
 
-<br><br><br><br>
-## Development Environment
+<br><br><br><br><br><br>
+# Development Environment
+--------------------------
 
 Your development environment is your workplace - it’s where you’ll spend most of your time. There are lots of different ways to develop code, so choose an environment that makes you comfortable.
 
@@ -118,8 +121,9 @@ This is the Mac terminal. They weren’t very creative with the name.
 
 You could code data science projects  directly in your terminal...but really this should be reserved for  passing direct commands to your computer.
 
-<br><br><br><br>
-## Computing and Storage
+<br><br><br><br><br><br>
+# Computing and Storage
+-----------------------
 You’ve got your team, your code, and your dev environment, but where does all the number-crunching happen? Where does the data live? There are a couple options. We’ll start small and go big.
 
 ### Local
@@ -151,7 +155,7 @@ Articles:
 #### Certifications
 A note on certifications — the military overfocuses on them. Taking a course to get one of these certifications is a license to learn, not an end in itself. If you don’t use the skills, they will atrophy and all your left is a certificate. Also, don’t believe anyone who tells you that getting a single certification will get you a $200,000 salary as a civilian.
 
-# [[[placeholder for AWS certs image]]]
+## [[[placeholder for AWS certs image]]]
 
 
 <br><br>
@@ -166,12 +170,13 @@ FastAI has a [good setup guide](https://course.fast.ai/start_azure_dsvm). Ignore
 The Fast AI course has a [good setup guide here](https://course.fast.ai/start_gcp). Ignore info about the fastai library or course itself
 
 
-<br><br><br><br>
-## Deployment
+<br><br><br><br><br><br>
+# Deployment
+----------------------
 
 What are the tools available for getting your tool or data science analysis to your user (besides powerpoint slides and excel spreadsheets…)
 
-# [[[placeholder for VMs vs Containers image]]]
+## [[[placeholder for VMs vs Containers image]]]
 
 <br>
 ### Docker

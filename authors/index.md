@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DS Cookbook - Authors
+permalink: /authors/
 ---
 
 ## Authors
