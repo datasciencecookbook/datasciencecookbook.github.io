@@ -3,8 +3,9 @@ layout: default
 title: DS Cookbook - About
 permalink: /about/
 ---
+<br><br>
 # A Cookbook for Technologists, by Technologists
-
+--------------------
 <br/><br/>
 ### What this Cookbook is...and is not
 In the era of great power competition, the Defense Department needs to be better at data. From acquiring data from our many sensors and systems, to storing, curating and cataloging that data and then effectively using that data, the DOD needs to better in order to effectively compete with our adversaries in the future. Data science problems exist in units at the edge of the formation, so problem solving and prototyping must happen at the edge. It is likely that the most transformative capabilities arise from operations at the “forward edge,” discovered by the sailors, soldiers, marines, airmen and guardians themselves in contexts far removed from centralized offices and laboratories. This cookbook exists to enable decentralized, bottom-up problem solving so that the best solutions can be combined with centralized, top-down enablers.
