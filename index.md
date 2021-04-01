@@ -7,6 +7,7 @@ title: Data Science Cookbook
 A resource to help data scientists go from **problem to prototype**
 <br>
 _Author's note: This is still a work in progress..._
+_We have tried our best to attribute all links and work. If we have failed to do so, or you wish for something to be removed, please let us know!_
 <br/><br/>
 ## What
 An open-source “cookbook” to enable bottom-up data science in DoD units at the edge of the formation. Help small teams get from 0 → 1.

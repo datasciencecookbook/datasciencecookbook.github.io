@@ -3,7 +3,10 @@ layout: default
 title: DS Cookbook - Authors
 permalink: /authors/
 ---
+<br>
+<a href="mailto:datasciencecookbook@gmail.com">Contact us</a>
 
+<br><br>
 ## Authors
 - Author 1
 - Author 2
@@ -14,7 +17,7 @@ permalink: /authors/
 - Author 7
 - Author 8
 
-
+<br><br>
 ## Contributors
 - Contributor 1
 - Contributor 2
@@ -25,7 +28,7 @@ permalink: /authors/
 - Contributor 7
 - Contributor 8
 
-
+<br><br>
 ## Additional Thanks
 - Thank You 1
 - Thank You 2
