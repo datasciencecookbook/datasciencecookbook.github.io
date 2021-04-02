@@ -3,15 +3,13 @@ layout: default
 title: DS Cookbook - Authors
 permalink: /authors/
 ---
-<br>
-<a href="mailto:datasciencecookbook@gmail.com">Contact us</a>
 
 <br><br>
 ## Authors
-- Author 1
-- Author 2
-- Author 3
-- Author 4
+- [Richard Kuzma](https://www.linkedin.com/in/richard-s-kuzma/)
+- Jessica Zhu
+- Jinny Yan
+- Rachel Kim
 - Author 5
 - Author 6
 - Author 7

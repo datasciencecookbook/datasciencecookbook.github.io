@@ -14,7 +14,7 @@ permalink: /ingredients/
 
 
 
-<br><br>
+<br><br><br>
 # Human Capital
 --------------------
 
@@ -22,26 +22,30 @@ permalink: /ingredients/
 If you’re using machine learning to solve a problem, you first need to understand the problem. Talking to an “end user” or subject matter expert is invaluable to gaining understanding of the problem / context. What’s more, even if you build a great machine learning model that makes accurate predictions, it’s useless if the model does not fit cleanly within a user’s existing workflow (who wants another box / computer at their workstation?). Building software that integrates within existing workflows and solves user pain points requires working closely with users.
 - UI aspect is a big factor in a successful ML product. The design aspect focuses on how the user interfaces with the machine learning product: How does the user expect to interact with the model? Is the design intuitive? Would someone not familiar with the product be able to navigate through it pretty easily?  How transparent is the model to the user?  How transparent does it need to be?  This requires a whole problem/pain point discovery period, prioritizing those pain points, proposing all possible solutions, and then prioritizing those solutions.  This ensures you’re focusing on the most important thing and will provide the biggest value.
 
+<br><br>
 ### Business Owner
 The problem owner may not be the person that is experiencing problems, but they have responsibility for solving them. For example, you may be building an image detection algorithm to help an intelligence analyst more easily find enemy supply trucks, but it’s the intelligence company commander who is ultimately responsible. This person may have a higher-level view of the workflow beyond just the end user, can challenge/validate your assumptions about the problem, and serve as an advocate within the organization you’re working for.
 
+<br><br>
 ### Data Scientist
 Does data exploration, cleaning (maybe), visualizing, and builds machine learning models. Often they can build models but aren’t often as skilled in deploying that model into existing software or managing systems-level movement of data.
 The role of ‘data scientist’ can often mean many things , up to and including a data engineer. Oftentimes, there are different types of data scientists that will overlap in their respective roles and functions. So, at the risk of some oversimplification, there are two general, overlapping, types of data scientists (it is also worth mentioning that many statisticians also fit within this framework, although their approach to data will be markedly different).
 - Data Intelligence Analyst. These are your ‘front-facing’ data scientists. Their work is often far more heavily weighted in dealing with stakeholders, relating analysis to business metrics, and data visualization, and less weighted toward model tuning and development and performing rigorous empirical investigations or tests. They are generally good at understanding the business problem, mapping a well-known data science technique to it, to deliver quick insights.
 - Machine Learning Engineer.  These are your ‘rear-facing’ data scientists. Their work will be primarily in the range of optimizing models and features to best meet a certain machine learning task. They are generally much more skilled in mathematics and computer programming and are generally good at taking a well-scoped data science problem and delivering an optimal model.
 
+<br><br>
 ### Data Engineer
-Builds and maintains the platforms that bring (1) enough, (2) clean, (3) timely data to the data scientists. Check out Data Engineering Cookbook by Andreas Kretz.
+Builds and maintains the platforms that bring (1) enough, (2) clean, (3) timely data to the data scientists. Check out the [Data Engineering Cookbook](https://github.com/andkret/Cookbook) by Andreas Kretz.
 
-### Software Developer/UX UI Designer
-Software developers build and maintain computer, mobile, or web applications. They typically work closely with the UI/UX Designer, who, in this scope,  is responsible for the design of a software application - specifically what the user interacts with.
-
-#### Software Developer:
-There are actually many software developers, but for the scope of this cookbook, we will focus on three main developers you will most likely work with: Front-end, Back-end, and Full-stack developers. Here is a great video on the differences between the three. Bottom line, software developers are typically the ones writing the code that facilitates the application based on a design that is provided by the UX/UI designer.
-
-#### UX/UI Designer:
+<br><br>
+### UX/UI Designer:
 UX (User Experience) and UI (User Interface) Designers are typically focused on the design of the piece of software, with a large emphasis on usability, functionality, and user experience. UI/UX designers should be involved as early as possible in the design process of any application or project, as their input will shape the usability of the product. For software development, designers typically approach software-design problems with a User Centered Design (UCD) approach. This process involves the user’s feedback at every step and is an iterative process.
+
+<br><br>
+### Software Developer:
+Developers write the code that builds the application based on a design that is provided by the UX/UI designer. This software may incorporate machine learning models. At a high level, developers can be grouped into Front-end, Back-end, and Full-stack developers. [Here is a great video](https://www.youtube.com/watch?v=pkdgVYehiTE) on the differences between the three. Front-end developers code the design created by the UI/UX designer, back-end developers connect applications, servers, and databases to make sure your product functions, and full-stack developers do it all.
+
+
 
 
 <br><br><br><br><br><br>
@@ -50,6 +54,7 @@ UX (User Experience) and UI (User Interface) Designers are typically focused on 
 
 A programming language is what the computer reads in order to do its tasks. Fortunately, in the 2020s, we have plenty of high-level programming languages to our disposal. We don’t need to deal with any 1s and 0s, and we can write code that is easy to read as a human, yet still fast for the computer to process.
 
+<br><br>
 ### Python
 Python is one of the most popular languages for data science and machine learning. Languages like R and Julia are also great, but we are most experienced in Python and know these resources better. We assume you’re proficient in Python, but here are some resources if you’re learning.
 
@@ -61,7 +66,7 @@ Python is one of the most popular languages for data science and machine learnin
 - [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Xn_zAW37OWEle3RdoedlLA&utm_medium=udemyads&utm_source=aff-campaign) (Udemy) (350k reviews)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5736886#overview) (Udemy)  (100k reviews)
 
-
+<br><br>
 ### Python Libraries
 #### NumPy
 This is the standard numerical computing library for Python. Before starting any data science Python script, import [NumPy](https://numpy.org/) to get started.
@@ -95,19 +100,20 @@ A package manager keeps track of all the packages (like those Python libraries a
 
 Your development environment is your workplace - it’s where you’ll spend most of your time. There are lots of different ways to develop code, so choose an environment that makes you comfortable.
 
+<br><br>
 ### Text Editors
 A text editor is a simple, streamlined place to write code. That’s it. It can be notepad or something more slick. Many are free, and there are tons to choose from: [Sublime](https://www.sublimetext.com/) is lightweight and wildly popular; [Atom](https://atom.io/) is customizable and links well with Git (and it can be made into an IDE - see below!); [Vim](https://www.vim.org/) is old-school and has great shortcuts to speed up your coding. The list goes on!
 
 If you’re building something fast and easy, just like to keep things simple, or are a confident coder a clean text editor is the way to go.
 
-
+<br><br>
 ### IDEs
 If you’re building a complex package with lots of dependencies, working with  multiple languages, or developing something to be wrapped into software, an IDE may be what you’re looking for. An integrated development environment (IDE) is not just a code editor (which can be any text editor) but a toolset for debugging, testing, and execution. Here’s an [overview](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24) of Python IDEs.
 
 For non-Jupyter IDEs, it’s really up to preference. Atom is a solid choice, but some people love [PyCharm](https://www.jetbrains.com/pycharm/) for all the bells and whistles for debugging and syntax, others prefer [Visual Studio](https://code.visualstudio.com/) code, which has an RStudio feel and some nice debugging features. [Spyder](https://www.spyder-ide.org/) also comes standard with Anaconda package manager. There are also collaborative, browser-based IDEs, such as [Replit](https://replit.com/site/ide), that try to abstract away some of the friction of selecting an IDE. In the world of IDEs, don’t be overwhelmed with the large number of choices. Just start with one and work with it. Don’t switch until you have sufficiently worked with an IDE, no matter what it is. Sometimes it can be a while before you identify why you prefer one or the other. This kind of approach should be applied to almost anything in the computing industry.
 
 
-
+<br><br>
 ### Notebooks
 #### Jupyter
 Many data scientists use jupyter notebook because of the ease of experimenting and visualizing, though they’re not good for production coding and are prone to getting messy.
@@ -118,6 +124,7 @@ Don’t want to set up your own development environment? Need access to a GPU, b
 
 If you’re looking for a quick environment to test out some ideas while saving the results to come back to later, notebooks are your best bet.
 
+<br><br>
 ### Terminals
 Also called the command line, a computer terminal is a way to interact with the computer directly without the  graphical user interface (e.g. Windows). Think black screen with monospaced green text. You can use them to do all sorts of things (write files, navigate through your computer directories, interact with git), but you can also use them to run programs, including Python scripts.
 
@@ -137,12 +144,15 @@ You could code data science projects  directly in your terminal...but really thi
 -----------------------
 You’ve got your team, your code, and your dev environment, but where does all the number-crunching happen? Where does the data live? There are a couple options. We’ll start small and go big.
 
+<br><br>
 ### Local
 This is the computer that’s on your desk or in your lap. It’s obviously easy to use, but it probably doesn’t have too much oomph or space.
 
+<br><br>
 ### On Premise
 These are servers that your organization might set up. They’re server stacks in cold rooms. The benefit of “on-prem” is that you have complete control over the server setup and how they’re managed. The drawback is that you’re responsible for server setup and how they’re managed and need to have someone on your team with those skills
 
+<br><br>
 ### Cloud
 What’s the “cloud”? It’s servers that you don’t have to manage because a big cloud provider (think Amazon, Microsoft, Google) manages them. Nowadays, cloud computing is easy to leverage and you can spin up virtual machines, storage, and more with a few mouse clicks, a few minutes, and a credit card rather than needing to purchase your own gear and learn how to do it from scratch.
 
@@ -189,6 +199,6 @@ What are the tools available for getting your tool or data science analysis to y
 
 ## [[[placeholder for VMs vs Containers image]]]
 
-<br>
+<br><br>
 ### Docker
 Docker is a popular container engine that enables rapid, repeatable deployment of software applications without the burden of creating and resourcing multiple VMs.  In many respects a Docker container resembles a VM, but rather than emulating hardware (all the way down to baremetal), a Docker container emulates a subset of the OS kernel particular to your application needs.  In basic terms, this means that you, the developer, can execute a few Docker commands and have an application-specific environment and all relevant libraries ready to go in minimal time.  This process is repeatable multiple times on the same baremetal without compromising performance or risking system underutilization. A lot of bang for your buck.
