@@ -24,7 +24,7 @@ Problems, problem solving, and prototyping—are decentralized.
 ![Centralized and Decentralized](/images/index/centralized_decentralized.png)
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 ## How
 - _"Ingredients"_ → What goes in to the recipes (human capital, development environment, compute, data)
 - _"Recipes"_ → Process. (defining the problem, data management, exploring data, building models, etc)
