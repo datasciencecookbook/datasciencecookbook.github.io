@@ -21,7 +21,7 @@ Problems, problem solving, and prototyping—are decentralized.
 
 <br><br>
 
-![Centralized and Decentralized](/images/index/centralized_decentralized.png)
+![Centralized and Decentralized](https://github.com/datasciencecookbook/datasciencecookbook.github.io/blob/main/images/index/centralized_decentralized.png)
 
 
 <br/><br/>
