@@ -18,6 +18,12 @@ Enablers of ML in DoD—infrastructure, funding, acquisition—are centralized.
 Problems, problem solving, and prototyping—are decentralized.
 <br/><br/>
 **Purpose: merge top-down enablers with bottom-up problem solving**
+
+<br><br>
+
+![Centralized and Decentralized](/images/index/centralized_decentralized.png)
+
+
 <br/><br/><br/><br/>
 ## How
 - _"Ingredients"_ → What goes in to the recipes (human capital, development environment, compute, data)
