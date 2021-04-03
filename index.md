@@ -22,7 +22,7 @@ An open-source “cookbook” to enable bottom-up data science in DoD units at t
 ## How do I use this cookbook?
 Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
 
-**Use the [_ingredients_](/ingredients) and [_recipes_](/recipes) links here or the navigation bar at the top of this page**
+**Use the [_ingredients_](/ingredients) and [_recipes_](/recipes) links here, the navigation bar at the top of this page, or go directly to [_specific code exmaples_](https://www.datasciencecookbook.info/appendix-b/)**
 <br><br><br><br>
 
 ## Why did you make this?
@@ -56,6 +56,7 @@ Operations Research Analysts, junior data analysts, data sciewntists, recent gra
 ## Where do I go from here?
 - **Show me the [_ingredients_](/ingredients)**
 - **Take me to the [_recipes_](/recipes)**
+- **Show me [_example code_](https://www.datasciencecookbook.info/appendix-b/) of machine learning in action**
 
 <br/><br/><br/><br/>
 #### Caveats
