@@ -10,7 +10,7 @@ permalink: /authors/
 - Jessica Zhu
 - Jinny Yan
 - Rachel Kim
-- Author 5
+- [Andrew Vanden Berg](https://www.linkedin.com/in/andrew-vanden-berg-15294ba1/)
 - Author 6
 - Author 7
 - Author 8
