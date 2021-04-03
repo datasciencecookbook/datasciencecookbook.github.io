@@ -199,7 +199,7 @@ The Fast AI course has a [good setup guide here](https://course.fast.ai/start_gc
 What are the tools available for getting your tool or data science analysis to your user (besides powerpoint slides and excel spreadsheets…)
 
 <br><br>
-![Containers vs Virtual Machines](/assets/ingredients/containers-vs-virtual-machines.jpg)
+![Containers vs Virtual Machines](/assets/ingredients/containers_vs_VMs.png)
 
 <br><br>
 ### Docker
