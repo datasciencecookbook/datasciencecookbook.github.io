@@ -4,20 +4,24 @@ title: Data Science Cookbook
 ---
 <br><br>
 # Welcome to the Data Science Cookbook!
--------------------------
-A resource to help data scientists go from **problem to prototype**
-<br><br>
+<br>
+A resource to help data scientists go from **problem to prototype** <br>
+
+-----------------------------------------------
+
+<br>
 _Author's note: This is still a work in progress..._
 _We have tried our best to attribute all links and work. If we have failed to do so, or you wish for something to be removed, please let us know!_
-<br/><br/><br><br>
+<br><br><br><br>
+
 ## What is this?
 An open-source “cookbook” to enable bottom-up data science in DoD units at the edge of the formation. Help small teams get from 0 → 1.
-<br><br>
+<br><br><br><br>
 
 
 ## How do I use this cookbook?
 Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
-<br/><br/>
+<br><br><br><br>
 
 ## Why did you make this?
 Enablers of ML in DoD—infrastructure, funding, acquisition—are centralized.
@@ -28,7 +32,7 @@ Problems, problem solving, and prototyping—are decentralized.
 
 <br><br>
 
-![Centralized and Decentralized](./assets/index/centralized_decentralized.png)
+![Centralized and Decentralized](./assets/index/centralized_decentralized.png)<br>
 Source: Made by Authors
 
 
