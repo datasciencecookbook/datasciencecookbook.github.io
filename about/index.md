@@ -31,6 +31,4 @@ We think if you’re reading this you may fit one of the following descriptions:
 - You are a more confident data scientist and coder, possibly with an academic background. You are aware of the capabilities of data science but haven’t worked on data science problems “in the wild”. Most of your experience is with structured  data and targeted problems. You’re looking to learn more about how to bring  the full workflow together.
 - You have a background in product management / design / software development but not in data science, and you are now part of a team working on a data science project
 
-<br/><br/>
-### How to Use this Resource
-Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
+<br><br>
