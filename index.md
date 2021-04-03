@@ -22,7 +22,7 @@ An open-source “cookbook” to enable bottom-up data science in DoD units at t
 ## How do I use this cookbook?
 Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
 
-**Use the [_ingredients_](/ingredients) and [_recipes_](/recipes) links at the top of the page to navigate**
+**Use the [_ingredients_](/ingredients) and [_recipes_](/recipes) links here or the navigation bar at the top of this page**
 <br><br><br><br>
 
 ## Why did you make this?
@@ -53,5 +53,10 @@ Data scientists, designers, and product managers with experience in DoD (AI Task
 Operations Research Analysts, junior data analysts, data sciewntists, recent graduates of universities and grad school programs, bootcamp grads, product managers.
 <br/><br/><br/><br/>
 
+## Where do I go from here?
+- **Show me the [_ingredients_](/ingredients)**
+- **Take me to the [_recipes_](/recipes)**
+
+<br/><br/><br/><br/>
 #### Caveats
 _These views and ideas are the authors' own and do not represent the views of the DoD, the Services, or any DoD organizations_
