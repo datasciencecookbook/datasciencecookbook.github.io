@@ -21,6 +21,8 @@ An open-source “cookbook” to enable bottom-up data science in DoD units at t
 
 ## How do I use this cookbook?
 Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
+
+**Use the [_ingredients_](/ingredients) and [_recipes_](/recipes) links at the top of the page to navigate**
 <br><br><br><br>
 
 ## Why did you make this?
