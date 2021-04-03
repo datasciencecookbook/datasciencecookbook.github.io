@@ -178,6 +178,7 @@ A note on certifications — the military overfocuses on them. Taking a course t
 
 <br><br>
 ![AWS Certifications](/assets/ingredients/aws_certs.png)
+Available AWS Certification. [Source](https://aws.amazon.com/certification/)
 
 
 <br><br>
@@ -200,6 +201,7 @@ What are the tools available for getting your tool or data science analysis to y
 
 <br><br>
 ![Containers vs Virtual Machines](/assets/ingredients/containers_vs_VMs.png)
+VMs vs Containers. [Source](https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms)
 
 <br><br>
 ### Docker

@@ -11,15 +11,15 @@ permalink: /authors/
 - Jinny Yan
 - Rachel Kim
 - [Andrew Vanden Berg](https://www.linkedin.com/in/andrew-vanden-berg-15294ba1/)
-- Author 6
+- AB
 - Author 7
 - Author 8
 
 <br><br>
 ## Contributors
-- Contributor 1
-- Contributor 2
-- Contributor 3
+- JF
+- BR
+- JM
 - Contributor 4
 - Contributor 5
 - Contributor 6

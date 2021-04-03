@@ -22,6 +22,7 @@ Problems, problem solving, and prototyping—are decentralized.
 <br><br>
 
 ![Centralized and Decentralized](./assets/index/centralized_decentralized.png)
+Source: Made by Authors
 
 
 <br/><br/>
