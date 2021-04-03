@@ -52,7 +52,7 @@ Data scientists, designers, and product managers with experience in DoD (AI Task
 <br/><br/><br/><br/>
 
 ## Audience
-Operations Research Analysts, junior data analysts, data sciewntists, recent graduates of universities and grad school programs, bootcamp grads, product managers.
+Operations Research Analysts, junior data analysts, data scientists, recent graduates of universities and grad school programs, bootcamp grads, product managers.
 <br/><br/><br/><br/>
 
 ## Where do I go from here?
