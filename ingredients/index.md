@@ -176,7 +176,8 @@ Articles:
 #### Certifications
 A note on certifications — the military overfocuses on them. Taking a course to get one of these certifications is a license to learn, not an end in itself. If you don’t use the skills, they will atrophy and all your left is a certificate. Also, don’t believe anyone who tells you that getting a single certification will get you a $200,000 salary as a civilian.
 
-## [[[placeholder for AWS certs image]]]
+<br><br>
+![AWS Certifications](/assets/ingredients/aws_certs.png)
 
 
 <br><br>
@@ -197,7 +198,8 @@ The Fast AI course has a [good setup guide here](https://course.fast.ai/start_gc
 
 What are the tools available for getting your tool or data science analysis to your user (besides powerpoint slides and excel spreadsheets…)
 
-## [[[placeholder for VMs vs Containers image]]]
+<br><br>
+![Containers vs Virtual Machines](/assets/ingredients/containers-vs-virtual-machines.jpg)
 
 <br><br>
 ### Docker
