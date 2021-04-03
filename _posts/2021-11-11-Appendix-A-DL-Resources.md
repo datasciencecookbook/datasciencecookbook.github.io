@@ -2,6 +2,7 @@
 layout: post
 title: "Appendix A: Deep Learning Resources"
 date: 2011-1-1
+permalink: /appendix-a/
 ---
 <br><br>
 #### Deep Learning Resources

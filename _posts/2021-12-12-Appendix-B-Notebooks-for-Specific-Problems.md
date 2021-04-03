@@ -2,6 +2,7 @@
 layout: post
 title: "Appendix B: Notebooks for Specific Problems"
 date: 2010-2-2
+permalink: /appendix-b/
 ---
 We don’t provide code with this cookbook, but if you need to do a specific problem, one of the notebooks below might help.
 
