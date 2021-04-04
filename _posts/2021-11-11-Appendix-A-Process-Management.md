@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Appendix C: Process Management"
-date: 2009-3-3
-permalink: /appendix-c/
+title: "Appendix A: Process Management"
+date: 2011-1-1
+permalink: /appendix-a/
 ---
 You have a team (more than just you) working on the same project, but how do you collaborate? We’ve got you covered. But first, here’s a quick round-up of the alphabet soup of words you might hear.
 
