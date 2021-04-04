@@ -5,8 +5,8 @@ title: Data Science Cookbook
 <br><br>
 # Welcome to the Data Science Cookbook!
 
-<br><br>
 A resource to help data scientists go from **problem to prototype**
+<br>
 
 -----------------------------------------------
 » **Use the navigation bar at the top of this page**<br>
