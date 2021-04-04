@@ -12,7 +12,8 @@ A resource to help data scientists go from **problem to prototype**
 » **Use the navigation bar at the top of this page**<br>
 » **Go to [_ingredients_](/ingredients)**<br>
 » **Go to [_recipes_](/recipes)**<br>
-» **Go to [_code examples_](https://www.datasciencecookbook.info/appendix-b/) for specific problems (computer vision, NLP, etc)**<br>
+» **Go to [_resources_](/resources) we like**<br>
+» **Go to [_code examples_](/examples) for specific problems (computer vision, NLP, etc)**<br>
 
 -------------------------------------------------
 

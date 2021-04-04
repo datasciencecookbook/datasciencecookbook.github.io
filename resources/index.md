@@ -24,7 +24,7 @@ _It is better to pick one or two resources and learn them well, rather than jump
 <br><br>
 ## Websites
 - [Towards Data Science](https://towardsdatascience.com/), a Medium blog with endless tutorials and code examples
-    - Medium has a $5/month charge for unlimited articles. I’ve found this incredibly worth it. Or you just use the chrome incognito option...
+    - Medium has a $5/month charge for unlimited articles. Some of us find found this cost incredibly worth the value for how much we use TDS.
 - [Machine Learning Mastery](https://machinelearningmastery.com), a blog by Jason Brownlee, has great tutorials
 - [Kaggle](https://www.kaggle.com/), a data science competition platform, has lots of great data sets and notebooks sharing users’ problem-solving process and code
 - [Codeacademy](https://www.codecademy.com/), free coding classes for a ton of different languages. Great for brushing up on syntax if you need to switch languages.
@@ -68,7 +68,7 @@ _It is better to pick one or two resources and learn them well, rather than jump
 
 **Udemy** (courses often list for $100, but often drop to < $20)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla (Jose offers many great courses on time series, NLP, etc)
-- AWS/Azure : A Cloud Guru runs some pretty decent courses https://acloudguru.com/
+- [AWS Solutions Architect and Developer](https://www.udemy.com/user/ryankroonenburg/) A Cloud Guru has good Udemy courses
 
 **Coursera** (pay only if you want the certificate at the end)
 - [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) is famous
@@ -81,7 +81,7 @@ _It is better to pick one or two resources and learn them well, rather than jump
 <br><br>
 ## Deep Learning
 - [Dive Into Deep Learning](http://d2l.ai/index.html) (free + code snippets in Pytorch/TF + nbs + github)
-- [Deep Learning Book](http://d2l.ai/index.html) - the original DL book. $49 on amazon, free on web
+- [Deep Learning Book](https://www.deeplearningbook.org/) - the original DL book. $49 on amazon, free on web
 
 <br><br>
 #### Keras
