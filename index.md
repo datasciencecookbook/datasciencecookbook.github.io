@@ -4,13 +4,22 @@ title: Data Science Cookbook
 ---
 <br><br>
 # Welcome to the Data Science Cookbook!
-<br>
-A resource to help data scientists go from **problem to prototype** <br>
+
+<br><br>
+A resource to help data scientists go from **problem to prototype**
 
 -----------------------------------------------
+» **Use the navigation bar at the top of this page**<br>
+» **Go to [_ingredients_](/ingredients)**<br>
+» **Go to [_recipes_](/recipes)**<br>
+» **Go to [_code examples_](https://www.datasciencecookbook.info/appendix-b/) for specific problems (computer vision, NLP, etc)**<br>
 
-<br>
+-------------------------------------------------
+
+
+<br><br>
 _Author's note: This is still a work in progress..._
+<br>
 _We have tried our best to attribute all links and work. If we have failed to do so, or you wish for something to be removed, please let us know!_
 <br><br><br><br>
 
@@ -21,21 +30,13 @@ An open-source “cookbook” to enable bottom-up data science in DoD units at t
 
 ## How do I use this cookbook?
 Like any cookbook, flip to the recipe you need. We tried to make each subsection stand on its own and be consumable on its own. If you don’t understand a particular ingredient in the recipe, use the ingredients section to learn more.
-
-» **Go to [_ingredients_](/ingredients) and [_recipes_](/recipes) pages**<br>
-» **Use the navigation bar at the top of this page**<br>
-» **See [_code examples_](https://www.datasciencecookbook.info/appendix-b/) for specific problems (computer vision, NLP, etc)**
 <br><br><br><br>
 
 ## Why did you make this?
 Enablers of ML in DoD—infrastructure, funding, acquisition—are centralized.
-Problems, problem solving, and prototyping—are decentralized.
-<br/><br/>
-
-**Purpose: merge top-down enablers with bottom-up problem solving**
+Problems, problem solving, and prototyping—are decentralized. **We want to help merge top-down enablers with bottom-up problem solving**
 
 <br><br>
-
 ![Centralized and Decentralized](./assets/index/centralized_decentralized.png)<br>
 Source: Made by Authors
 

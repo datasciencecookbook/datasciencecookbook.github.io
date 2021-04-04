@@ -15,6 +15,7 @@ permalink: /authors/
 
 <br><br>
 ## Contributors
+- Harrison Leinweber
 - JF
 - BR
 - JM
