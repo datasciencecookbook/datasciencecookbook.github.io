@@ -50,7 +50,7 @@ Source: Made by Authors
 <br/><br/><br/><br/>
 
 ## Team
-Data scientists, designers, and product managers with experience in DoD (AI Task Force, Maven, Kessel Run, Fort Meade, SOCOM, Harbinger and more)
+Data scientists, designers, and product managers with experience in DoD (AI Task Force, DIU, Kessel Run, Fort Meade, SOCOM, Harbinger and more)
 <br/><br/><br/><br/>
 
 ## Audience
