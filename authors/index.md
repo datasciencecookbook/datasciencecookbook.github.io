@@ -11,7 +11,6 @@ permalink: /authors/
 - Jinny Yan
 - Alexi Farr
 - [Andrew Vanden Berg](https://www.linkedin.com/in/andrew-vanden-berg-15294ba1/)
-- Rachel Kim
 
 
 <br><br>
@@ -19,6 +18,7 @@ permalink: /authors/
 - Harrison Leinweber
 - [Jazmin Furtado](https://www.linkedin.com/in/jazmin-furtado-152996100)
 - Ben Radford
+- Rachel Kim
 - John McGunnigle
 
 <br><br>
