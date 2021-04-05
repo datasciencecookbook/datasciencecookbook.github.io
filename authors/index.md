@@ -18,7 +18,7 @@ permalink: /authors/
 ## Contributors
 - Harrison Leinweber
 - [Jazmin Furtado](https://www.linkedin.com/in/jazmin-furtado-152996100)
-- [Ben Radford] (https://www.linkedin.com/in/benwradford/)
+- [Ben Radford](https://www.linkedin.com/in/benwradford/)
 - John McGunnigle
 
 <br><br>
