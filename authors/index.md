@@ -9,9 +9,10 @@ permalink: /authors/
 - [Richard Kuzma](https://www.linkedin.com/in/richard-s-kuzma/)
 - Jessica Zhu
 - Jinny Yan
-- Rachel Kim
+- Alexi Farr
 - [Andrew Vanden Berg](https://www.linkedin.com/in/andrew-vanden-berg-15294ba1/)
-- AB
+- Rachel Kim
+
 
 <br><br>
 ## Contributors
