@@ -20,6 +20,7 @@ permalink: /authors/
 - [Jazmin Furtado](https://www.linkedin.com/in/jazmin-furtado-152996100)
 - Ben Radford
 - John McGunnigle
+- Bill Young
 
 
 <br><br>
