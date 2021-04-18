@@ -30,7 +30,7 @@ _It is better to pick one or two resources and learn them well, rather than jump
 - [Codeacademy](https://www.codecademy.com/), free coding classes for a ton of different languages. Great for brushing up on syntax if you need to switch languages.
 - Twitter has a large data science community
     - The [DL/ML Twitter Loop](https://twitter.com/i/lists/811597808042180608/members) has some good ML people to follow
-    - [Santiago](https://twitter.com/svpino) also has informative threads on ML and Python  
+    - [Santiago](https://twitter.com/svpino) has informative threads on ML and Python  
 
 <br><br>
 
@@ -95,6 +95,17 @@ _It is better to pick one or two resources and learn them well, rather than jump
 - [Deep Learning with Pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) (pdf book)
 - [Awesome Pytorch Examples](https://github.com/bharathgs/Awesome-pytorch-list) (all problem types)
 - [PyTorch Tutorial Github](https://github.com/MorvanZhou/PyTorch-Tutorial)
+
+<br><br>
+
+-------------------------------------
+
+<br><br>
+## Newsletters
+- [Import AI](https://jack-clark.net/about/) by Jack Clark, Strategy and Communications Director at OpenAI
+- [The Batch](https://www.deeplearning.ai/the-batch/) by deeplearning.ai and Andrew Ng
+- [ChinAI Newsletter](https://chinai.substack.com/) by Jeff Ding
+    - "Weekly translations of writings from Chinese thinkers on China's AI landscape"
 
 <br><br>
 

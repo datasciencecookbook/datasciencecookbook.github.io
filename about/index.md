@@ -8,21 +8,23 @@ permalink: /about/
 --------------------
 <br/><br/>
 ### What this Cookbook is...and is not
-In the era of great power competition, the Defense Department needs to be better at data. From acquiring data from our many sensors and systems, to storing, curating and cataloging that data and then effectively using that data, the DOD needs to better in order to effectively compete with our adversaries in the future. Data science problems exist in units at the edge of the formation, so problem solving and prototyping must happen at the edge. It is likely that the most transformative capabilities arise from operations at the “forward edge,” discovered by the sailors, soldiers, marines, airmen and guardians themselves in contexts far removed from centralized offices and laboratories. This cookbook exists to enable decentralized, bottom-up problem solving so that the best solutions can be combined with centralized, top-down enablers.
+In the era of great power competition, the Defense Department needs to be better with data. From acquiring data from its many sensors and systems, to storing, curating, cataloging, and finally leveraging that data, the Defense Department needs continuous improvement  in order to remain competitive with its adversaries.
 
-This cookbook is not an official Defense Department policy. It’s complimentary to the DoD acquisition process, and to the teammates working hard to continue to improve that system. This is not a guide to learning Python or Pandas (though we offer some resources we’ve found helpful). It’s not an all-inclusive list of things to think about.  It’s not a guide for commanders (though some may find it helpful). It’s a guide for going from problem to data science prototype.  
+A high concentration of data science problems manifest at the edge of unit formations, so problem solving and prototyping must be done in tandem at the edge. Truly data-centric organizations enable problem solving by removing frictions for technical teams at the tactical edge and making enterprise infrastructure available to those that need it. This cookbook exists to serve as a bridge between decentralized problem solving and centralized enablers like funding, infrastructure, and strategic vision.
+
+This cookbook is not official Defense Department policy. It’s complementary to the Defense Department acquisition process. This is not a guide to learning Python or Pandas (though we offer some resources we’ve found helpful). It’s not an all-inclusive list of things to think about. It’s not a guide for commanders (though some may find it illuminating). It’s a guide for data teams going from problem to data science prototype.
+
 
 <br/><br/>
 ### Why we Wrote This
-Getting data science right for the DOD requires technical expertise, domain expertise, and operational experience.  Thoughtful and deliberate coordination and collaboration between the DOD’s subject matter experts, you, and leadership is necessary when making technical decisions and policy concerning data.
+Getting data science right for the DoD requires technical expertise, domain expertise, and operational experience. Thoughtful and deliberate coordination and collaboration between the DoD’s subject matter experts, technical teams, and operational leadership is necessary when making technical decisions and crafting policy concerning data.
 
 <br/><br/>
 ### Intended Audience
-This book is meant to be consumed by product managers, data scientists, software developers, designers, and anyone who wants to help DoD build better solutions.
+This book is meant to be consumed by product managers, data scientists, software developers, designers, and anyone who wants to help the Defense Department build better solutions.
 
-You may be coming here with some background in data science and/or interest in learning what more data science can do for your team.   As a project developer, you should have some coding background already in at least one language (we assume Python here but the concepts are transferable). Pro stackoverflow skills will get you far when applying  these recipes. You should also have an initial understanding of data science concepts.
+You may be coming here with some background in data science and/or interest in learning what more data science can do for your team. As a project developer, you should have an initial understanding of data science concepts and some coding background in Python. For more experienced data scientists, we encourage you to skim relevant sections to fill in parts of the development stack that you’re not familiar with or refresh on best practices/techniques that you’ve forgotten.
 
-For more experienced data scientists, we encourage you to skim relevant sections to fill in parts of the development stack that you’re not familiar with or refresh on best practices/techniques that you’ve forgotten.
 
 <br/><br/>
 ### Our Assumptions
