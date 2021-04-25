@@ -60,11 +60,13 @@ Python is one of the most popular languages for data science and machine learnin
 **Books**
 - [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/#toc) (free + available for purchase)
     - Start from nothing, learn some great data handling tricks
-- [Python 101](https://www.amazon.com/Python-101-Michael-Driscoll-ebook/dp/B00KQTFHNK ) by Michael Driscoll
+- [Python 101](https://www.amazon.com/Python-101-Michael-Driscoll-ebook/dp/B00KQTFHNK) by Michael Driscoll
+- [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989/ref=sr_1_1?dchild=1&keywords=effective+python&qid=1619362117&sr=8-1) by Brett Slatkin
 
 **Udemy courses** (wait until they are < $20)
 - [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Xn_zAW37OWEle3RdoedlLA&utm_medium=udemyads&utm_source=aff-campaign) (Udemy) (350k reviews)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5736886#overview) (Udemy)  (100k reviews)
+
 
 <br><br>
 ### Python Libraries
@@ -80,7 +82,7 @@ The creator of Pandas, Wes McKinney, has a  [book](http://amzn.to/2vvBijB) and [
 Math Plotting Library aka matplotlib is the quintessential library for visualizing data in Python. Here’s the [website](https://matplotlib.org/stable/index.html), [tutorials](https://matplotlib.org/stable/tutorials/index.html) for beginner/intermediate/advanced users, and [examples](https://matplotlib.org/stable/gallery/index.html) of common uses. Pandas plotting functionality is built on top of Matplotlib, so you can call .plot() directly from a DataFrame. Seaborn is another visualization library you may encounter. It’s also built on top of matplotlib so has much of the same functionality, but extends matplotlib in a few areas.
 
 ### Scikit-learn/sklearn
-[Scikit-learn](https://scikit-learn.org/stable/) and its family of related scikit tools, like [scikit-image](https://scikit-image.org/), [scikit-network](https://scikit-network.readthedocs.io/en/latest/), or [scikit-learn-extra](https://scikit-learn-extra.readthedocs.io/en/latest/api.html), provide an immense number and type of tools for all kinds of data science. Powerful, already optimized tools for everything within the Data Science task list can be found in scikit-learn. Examples include supervised learning, clustering, dimensionality reduction, data preprocessing, scoring metrics, and on and on. Generally, most scikit tools are written as objects in Python. This means the general workflow with using a scikit tool consists of instantiating the tool as an object, fitting it to the data with its object methods, and then using the fit object on data for its specified purpose. Given the wide range of tools available and their ease of use, sklearn is often a good starting point for tools for any given data science project.
+[Scikit-learn](https://scikit-learn.org/stable/) and its family of related scikit tools, like [scikit-image](https://scikit-image.org/), [scikit-network](https://scikit-network.readthedocs.io/en/latest/), or [scikit-learn-extra](https://scikit-learn-extra.readthedocs.io/en/latest/api.html), provide an immense number and type of tools for all kinds of data science. Powerful, already optimized tools for everything within the data science task list can be found in scikit-learn. Examples include supervised learning, clustering, dimensionality reduction, data preprocessing, scoring metrics, and on and on. Generally, most scikit tools are written as objects in Python. This means the general workflow with using a scikit tool consists of instantiating the tool as an object, fitting it to the data with its object methods, and then using the fit object on data for its specified purpose. Given the wide range of tools available and their ease of use, sklearn is often a good starting point for tools for any given data science project.
 
 ### Package Managers
 A package manager keeps track of all the packages (like those Python libraries above) you have on your computer or virtual environment. It allows you to easily install new packages and update the ones you have.
@@ -156,9 +158,12 @@ These are servers that your organization might set up. They’re server stacks i
 ### Cloud
 What’s the “cloud”? It’s servers that you don’t have to manage because a big cloud provider (think Amazon, Microsoft, Google) manages them. Nowadays, cloud computing is easy to leverage and you can spin up virtual machines, storage, and more with a few mouse clicks, a few minutes, and a credit card rather than needing to purchase your own gear and learn how to do it from scratch.
 
+We’ve outlined the major players below. We have the most information on AWS because that’s the one we have the most familiarity with, but all their services are fairly comparable. You won’t go wrong choosing any of them, and there plenty of other smaller providers too if you want to choose something different.
+
 #### Amazon Web Services
-- [How to make an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
-- [Overview of AWS](https://d1.awsstatic.com/whitepapers/aws-overview.pdf) by Amazon
+Check out these sites and resources for getting started:
+- [How to make an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
+- [Overview of AWS](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
 - [Udemy Course](https://www.udemy.com/course/aws-certified-solutions-architect-associate/) by “A Cloud Guru” (wait until price drops  to < $20)
 
 Key services in getting a prototype built:
@@ -174,7 +179,7 @@ Articles:
 - [Building a data pipeline from scratch on AWS](https://towardsdatascience.com/building-a-data-pipeline-from-scratch-on-aws-35f139420ebc?source=false---------5) (TDS)
 
 #### Certifications
-A note on certifications — the military overfocuses on them. Taking a course to get one of these certifications is a license to learn, not an end in itself. If you don’t use the skills, they will atrophy and all your left is a certificate. Also, don’t believe anyone who tells you that getting a single certification will get you a $200,000 salary as a civilian.
+A note on certifications — the military highly values them, perhaps overly so in the context of data science. Taking a course to get one of these certifications is a license to learn, but not an end in itself. If you don’t use the skills, they will atrophy and all your left is a certificate. Also, don’t believe anyone who tells you that getting a single certification will get you a $200,000 salary as a civilian.
 
 <br><br>
 ![AWS Certifications](/assets/ingredients/aws_certs.png)<br>

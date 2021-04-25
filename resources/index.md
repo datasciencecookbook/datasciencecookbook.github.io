@@ -23,6 +23,11 @@ _It is better to pick one or two resources and learn them well, rather than jump
 
 <br><br>
 ## Websites
+- [Air Force Digital U](https://digitalu.af.mil/)
+    - The Air Force has partnered with Udemy to create Digital U, which provides curated training plans for different careers and skills.
+    - Career options include: data scientist, machine learning engineer, project manager, and more.
+    - Skill options include: AI, CSS, computer science, Agile methodology, and many more.
+    - Each career or skill training plan includes numerous Udemy course offerings organized to build the foundations needed to get going and then buid expertise over time.
 - [Towards Data Science](https://towardsdatascience.com/), a Medium blog with endless tutorials and code examples
     - Medium has a $5/month charge for unlimited articles. Some of us find found this cost incredibly worth the value for how much we use TDS.
 - [Machine Learning Mastery](https://machinelearningmastery.com), a blog by Jason Brownlee, has great tutorials
@@ -30,7 +35,8 @@ _It is better to pick one or two resources and learn them well, rather than jump
 - [Codeacademy](https://www.codecademy.com/), free coding classes for a ton of different languages. Great for brushing up on syntax if you need to switch languages.
 - Twitter has a large data science community
     - The [DL/ML Twitter Loop](https://twitter.com/i/lists/811597808042180608/members) has some good ML people to follow
-    - [Santiago](https://twitter.com/svpino) has informative threads on ML and Python  
+    - [Santiago](https://twitter.com/svpino) has informative threads on ML and Python
+
 
 <br><br>
 
