@@ -2,7 +2,7 @@
 
 A resource for data teams to go from **problem --> prototype**
 
-www.datasciencecookbook.info
+datasciencecookbook.github.io/
 
 ***Contact us:*** datasciencecookbook at gmail dot com
 
