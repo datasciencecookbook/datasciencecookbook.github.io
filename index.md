@@ -44,7 +44,7 @@ Source: Made by Authors
 
 
 <br/><br/>
-#### How does it work?
+### How does it work?
 - _"Ingredients"_ → What goes in to the recipes (human capital, development environment, compute, data)
 - _"Recipes"_ → Process. (defining the problem, data management, exploring data, building models, etc)
 - Structure → bite-sized (<5 pg) articles
