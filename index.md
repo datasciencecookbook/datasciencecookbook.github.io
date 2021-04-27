@@ -21,8 +21,9 @@ A resource to help data scientists go from **problem to prototype**
 
 <br><br>
 _Author's note: This is still a work in progress..._
-<br>
-_We have tried our best to attribute all links and work. If we have failed to do so, or you wish for something to be removed, please let us know!_
+- _We have tried our best to attribute all links and work. If we have failed to do so, or you wish for something to be removed, please let us know!_
+- _Email us at datasciencecookbook (at) gmail (dot) com_
+- _Contribute directly at [our GitHub](https://github.com/datasciencecookbook/datasciencecookbook.github.io)_
 <br><br>
 
 ### What is this?
