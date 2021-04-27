@@ -1,4 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: Unofficial Data Science Cookbook
 markdown: kramdown
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
+google_analytics: G-CLF7013V1R
