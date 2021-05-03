@@ -12,6 +12,7 @@ permalink: /authors/
 - Alexi Farr
 - [Andrew Vanden Berg](https://www.linkedin.com/in/andrew-vanden-berg-15294ba1/)
 - Rachel Kim
+- [Nicholas Clark](https://www.linkedin.com/in/nicholas-clark-4a822513a/)
 
 
 <br><br>
