@@ -211,3 +211,11 @@ VMs vs Containers. [Source](https://www.weave.works/blog/a-practical-guide-to-ch
 <br><br>
 ### Docker
 Docker is a popular container engine that enables rapid, repeatable deployment of software applications without the burden of creating and resourcing multiple VMs. In many respects a Docker container resembles a VM, but rather than emulating hardware (all the way down to baremetal), a Docker container emulates a subset of the OS kernel particular to your application needs. In basic terms, this means that you, the developer, can execute a few Docker commands and have an application-specific environment and all relevant libraries ready to go in minimal time. This process is repeatable multiple times on the same baremetal without compromising performance or risking system underutilization. A lot of bang for your buck.
+
+<br><br>
+
+#### Navigation
+» **[_About_](/about)**<br>
+» **[_Recipes_](/recipes)**<br>
+» **[_Resources_](/resources)**<br>
+» **[_Code examples_](/examples)**<br>

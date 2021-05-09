@@ -53,3 +53,12 @@ There are five main steps to the design thinking process:
 
 
 While these steps are numbered in sequential order, they are meant to serve as a general guideline. These steps are also iterative; typically, the Test phase redefines the problem and enables the designers to explore more solutions for future iterations to create a refined product.
+
+<br><br>
+
+#### Navigation
+» **[_About_](/about)**<br>
+» **[_Ingredients_](/ingredients)**<br>
+» **[_Recipes_](/recipes)**<br>
+» **[_Resources_](/resources)**<br>
+» **[_Code examples_](/examples)**<br>

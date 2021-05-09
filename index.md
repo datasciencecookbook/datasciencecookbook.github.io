@@ -60,10 +60,10 @@ Operations Research Analysts, junior data analysts, data scientists, recent grad
 <br/><br/>
 
 ### Where do I go from here?
-- **Take me to the [_about_](/about) section**
-- **Show me the [_ingredients_](/ingredients)**
-- **Take me to the [_recipes_](/recipes)**
-- **Show me [_example code_](https://datasciencecookbook.github.io/appendix-b/) of machine learning in action**
+» **Take me to the [_about_](/about) section**<br/>
+» **Show me the [_ingredients_](/ingredients)**<br/>
+» **Take me to the [_recipes_](/recipes)**<br/>
+» **Show me [_example code_](https://datasciencecookbook.github.io/appendix-b/) of machine learning in action**<br/>
 
 <br/><br/><br/><br/>
 #### Caveats
