@@ -120,4 +120,5 @@ _It is better to pick one or two resources and learn them well, rather than jump
 <br><br>
 ## Miscellaneous
 - [ML technical debt paper](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) (Google)
+- Causality and ML. For the curious: causality is a new field of study that deals with the lack of causal representations in the field of ML. Yes, it's the "causation" we've been avoiding from the "correlation does not imply causation". Check out this [talk](https://www.youtube.com/watch?v=rKZJ0TJWvTk) and [paper](https://arxiv.org/pdf/2102.11107.pdf) from Yoshua Bengio (AI pioneer) and this [article](https://bdtechtalks.com/2021/03/15/machine-learning-causality/) explaining.
 <br><br>
