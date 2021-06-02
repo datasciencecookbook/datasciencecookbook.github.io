@@ -55,11 +55,17 @@ We don’t provide code with this cookbook, but if you need to do a specific pro
 <br><br>
 #### Deep Learning
 - [Deep Learning for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners) (Kaggle)
+- [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) (Andrej Karpathy Blog)
 
 
 <br><br><br><br>
 ## Computer Vision
 -----------------
+
+<br><br>
+#### Transfer Learning
+- [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) (Pytorch)
+- [Transfer Learning and Fine-Tuning Tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning) (TensorFlow)
 
 <br><br>
 #### Pytorch
