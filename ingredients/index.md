@@ -128,7 +128,11 @@ If you’re looking for a quick environment to test out some ideas while saving 
 
 <br><br>
 ### Terminals
-Also called the command line, a computer terminal is a way to interact with the computer directly without the  graphical user interface (e.g. Windows). Think black screen with monospaced green text. You can use them to do all sorts of things (write files, navigate through your computer directories, interact with git), but you can also use them to run programs, including Python scripts.
+Also called the command line and bash, a computer terminal is a way to interact with the computer directly without the  graphical user interface (e.g. Windows). Think black screen with monospaced green text. You can use them to do all sorts of things (write files, navigate through your computer directories, interact with git), but you can also use them to run programs, including Python scripts.
+
+While command-line interfaces can feel very foreign to those of us used to GUIs, they allow us to work with files in a far more powerful way than with GUIs. This is especially true when you're working in cloud environments, which generally run through a command-line interfaces. I can't say how many times terminal commands have saved me on AWS and Databricks when I was trying to move files from one storage location to another.
+
+Simple commands like `cd` (change directory), `ls` (see files in a directory), `mkdir` (make a new directory/folder), `mv` (move), and  `rm` (delete) can be very helpful. 
 
 #### Command Prompt
 This is the basic Windows terminal. Search for ‘cmd’, and you’ll find it.
@@ -139,7 +143,12 @@ Windows created a fancier terminal to replace the base Command Prompt. This is P
 #### Terminal
 This is the Mac terminal. They weren’t very creative with the name.
 
-You could code data science projects  directly in your terminal...but really this should be reserved for  passing direct commands to your computer.
+You could code data science projects directly in your terminal...but really this should be reserved for  passing direct commands to your computer.
+
+Check out these resources to learn more:
+- [11 Reasons why data scientists should learn the command line](https://www.dataquest.io/blog/why-learn-the-command-line/)
+- [Linux commands for beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+- [Intermediate Linux commands](https://maker.pro/linux/tutorial/intermediate-linux-commands)
 
 <br><br><br><br><br><br>
 # Computing and Storage
@@ -190,13 +199,15 @@ Available AWS Certification. [Source](https://aws.amazon.com/certification/)
 #### Microsoft Azure
 Here’s an [overview of Azure Certifications](https://cloudacademy.com/blog/microsoft-azure-certifications-which-is-right-for-you-and-your-team/) from Cloud Academy. Again, certifications are not an end in themself, but just one way of learning “enough to be dangerous” about the cloud resources you’ll need to build/deploy a product that helps your users.
 
-Data must be stored within a storageaccount, within a container, and then finally within a blockblob (one data file per block blob). The containers can then be registered within your Azure ML Studio, where you do project work. Use the datastore feature to link to a container, and the datasets feature to link to a specific file within your datastore/container.
+Data must be stored within a storage account, within a container, and then finally within a blockblob (one data file per block blob). The containers can then be registered within your Azure ML Studio, where you do project work. Use the datastore feature to link to a container, and the datasets feature to link to a specific file within your datastore/container.
 
 FastAI has a [good setup guide](https://course.fast.ai/start_azure_dsvm). Ignore info about the library/course.
 
 #### Google Cloud Platform
 The Fast AI course has a [good setup guide here](https://course.fast.ai/start_gcp). Ignore info about the fastai library or course itself
 
+#### Databricks
+Built on top of Azure, AWS, and Google Coud, Databricks is ideal for both smaller scale jobs / testing and also large scale jobs. 
 
 <br><br><br><br><br><br>
 # Deployment
@@ -208,9 +219,14 @@ What are the tools available for getting your tool or data science analysis to y
 ![Containers vs Virtual Machines](/assets/ingredients/containers_vs_VMs.png)<br>
 VMs vs Containers. [Source](https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms)
 
-<br><br>
-### Docker
+
+#### Dashboards
+If your uses want interactive analytics, dashboards can be a good choice. You can host them on a local machine or easily deploy them on the web. A couple popular choices are: [Tableau](https://www.tableau.com/products), [Streamlit](https://streamlit.io/gallery), [Plotly Dash](https://dash-gallery.plotly.host/Portal/).
+
+#### Docker
 Docker is a popular container engine that enables rapid, repeatable deployment of software applications without the burden of creating and resourcing multiple VMs. In many respects a Docker container resembles a VM, but rather than emulating hardware (all the way down to baremetal), a Docker container emulates a subset of the OS kernel particular to your application needs. In basic terms, this means that you, the developer, can execute a few Docker commands and have an application-specific environment and all relevant libraries ready to go in minimal time. This process is repeatable multiple times on the same baremetal without compromising performance or risking system underutilization. A lot of bang for your buck.
+
+
 
 <br><br>
 
