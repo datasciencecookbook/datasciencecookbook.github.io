@@ -67,6 +67,9 @@ Python is one of the most popular languages for data science and machine learnin
 - [Complete Python Bootcamp from Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Xn_zAW37OWEle3RdoedlLA&utm_medium=udemyads&utm_source=aff-campaign) (Udemy) (350k reviews)
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5736886#overview) (Udemy)  (100k reviews)
 
+**Free courses**
+- [Learn Python Programming Language](https://www.scaler.com/topics/python/)
+
 
 <br><br>
 ### Python Libraries
